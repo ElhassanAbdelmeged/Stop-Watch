@@ -24,3 +24,4 @@ This mini project implements a Stop Watch system with the following specificatio
 
 11. Configures External Interrupt INT2 with a falling edge trigger. Connects a push button with an internal pull-up resistor. When a falling edge is detected, the Stop Watch time is resumed.
 
+![image](https://github.com/ElhassanAbdelmeged/Stop-Watch/assets/88130561/3b1d6220-4cef-4724-8246-d33641f232c6)
